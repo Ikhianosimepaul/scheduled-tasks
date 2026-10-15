@@ -6,8 +6,6 @@
 # See the solution video in the 100 Days of Python Course for explainations.
 
 # import os and use it to get the Github repository secrets
-MY_EMAIL = os.environ.get("MY_EMAIL")
-MY_PASSWORD = os.environ.get("MY_PASSWORD")
 
 import datetime as dt
 import pandas
